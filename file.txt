@@ -1,0 +1,8 @@
+Lime_pie = flour; honey; butter; chicken eggs; milk; lime
+Roasted_salmon = potato; salmon; vegetable oil; salt; pepper
+Potato_pie = chicken eggs; salt; potato; butter; flour
+Ratatouille = squash; zucchini; tomato; pepper; vegetable oil; salt; onion; garlic
+Salad = mushrooms; onion; carrots; corn; chicken eggs; garlic; parsley; salt; pepper; vegetable oil
+Hash_browns = chicken eggs; kefir; sugar; salt; soda; flour; vegetable oil
+Pancakes = milk; chicken eggs; salt; sugar; flour; vegetable oil; soda
+Omelet_with_mushrooms = mushrooms; chicken eggs; salt; vegetable oil; sour cream; parsley; milk
