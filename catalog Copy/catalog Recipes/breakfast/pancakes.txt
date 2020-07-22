@@ -1,1 +1,0 @@
-Pancakes = milk; chicken eggs; salt; sugar; flour; vegetable oil; soda
