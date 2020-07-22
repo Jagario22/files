@@ -8,7 +8,7 @@ import java.util.List;
 
 public class FilesApp {
     private final static String path = "file.txt";
-    private final static String substring = "salmon";
+    private final static String substring = "veg";
     private final static String pathFrom = "catalog Recipes";
     private final static String pathTo = "catalog Copy";
 

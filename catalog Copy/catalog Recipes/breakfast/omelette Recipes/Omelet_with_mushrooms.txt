@@ -1,0 +1,1 @@
+Omelet_with_mushrooms = mushrooms; chicken eggs; salt; vegetable oil; sour cream; parsley; milk

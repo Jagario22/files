@@ -12,8 +12,10 @@ public class FilesUtil {
 
         try (BufferedReader reader = new BufferedReader(new FileReader(path))) {
             while ((line = reader.readLine()) != null) {
-                if (line.contains(substring))
-                    result.append(line).append("\n");
+                for (String val : line.replaceAll("\\p{P}", " ").split(" ")) {
+                    if (val.contains(substring))
+                        result.append(val).append(" ");
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
